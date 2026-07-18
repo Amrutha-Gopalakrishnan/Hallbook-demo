@@ -9,12 +9,12 @@ import Hero3 from "../assets/hero3.jpg";
 import Dinning1 from "../assets/dinning1.png";
 
 const items = [
-  { src: Gallery1, title: "grand banquet hall" },
-  { src: Garden, title: "scenic gardens" },
-  { src: Hero1, title: "luxury suite bedroom" },
-  { src: Hero2, title: "resort entrance pathway" },
-  { src: Hero3, title: "premium living spaces" },
-  { src: Dinning1, title: "fine dining hall" }
+  { src: Gallery1 },
+  { src: Garden },
+  { src: Hero1 },
+  { src: Hero2 },
+  { src: Hero3 },
+  { src: Dinning1 }
 ];
 
 export default function Gallery() {
